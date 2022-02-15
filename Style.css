@@ -16,11 +16,13 @@ h6 {
   font-size: 14px;
   
 }
-.p1 {
-  font-size: 20px;
-}
+
 
 div {
- 
+
 }
 
+img {
+  height: 125px;
+  border: solid black 1px;
+}
