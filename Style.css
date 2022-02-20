@@ -6,13 +6,13 @@ body {
 
 h1 {
   text-shadow: -4px 4px 13px #00331A;
-  font-size: 32px
+  font-size: 32px;
 }
 
 h3 {
   border-bottom: solid black 1px;
   color: #1919FF;
-  Font-size: 24px
+  Font-size: 24px;
 }
 
 h5 {
@@ -29,25 +29,25 @@ h6 {
 background: transparent url("https://img.aviationpros.com/files/base/cygnus/cavc/image/2013/12/avflight-logo_11283388.png")
   repeat scroll 0px 0px;
   background-size: 800px;
-  border-bottom: solid black 1px
+  border-bottom: solid black 1px;
 }
 
 .Sears{
   background: transparent url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sears_Logo_1994.svg/1680px-Sears_Logo_1994.svg.png")
   no-repeat scroll 0px 0px;
-  border-bottom: solid black 1px
+  border-bottom: solid black 1px;
 }
 
 .UND {
 background: transparent url("https://campus.und.edu/brand/_files/images/download/flame-microsoft-office-go-p-c.png")
   repeat scroll 0px 0px;
-  background-size: 290px;
+  background-size: 325px;
 }
 
 .Certs {
   background: transparent url("http://www.pbpt.org/wp-content/uploads/2021/03/pilot_cert_front-150-ppi.png")
   no-repeat scroll 550px 25px;
-  background-size: 200px
+  background-size: 200px;
 }
 
 img {
