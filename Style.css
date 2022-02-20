@@ -26,7 +26,7 @@ h6 {
 }
 
 .avt {
-background: transparent url("https://img.aviationpros.com/files/base/cygnus/cavc/image/2013/12/avflight-logo_11283388.png")
+  background: transparent url("https://img.aviationpros.com/files/base/cygnus/cavc/image/2013/12/avflight-logo_11283388.png")
   repeat scroll 0px 0px;
   background-size: 800px;
   border-bottom: solid black 1px;
@@ -39,7 +39,7 @@ background: transparent url("https://img.aviationpros.com/files/base/cygnus/cavc
 }
 
 .UND {
-background: transparent url("https://campus.und.edu/brand/_files/images/download/flame-microsoft-office-go-p-c.png")
+  background: transparent url("https://campus.und.edu/brand/_files/images/download/flame-microsoft-office-go-p-c.png")
   repeat scroll 0px 0px;
   background-size: 325px;
 }
